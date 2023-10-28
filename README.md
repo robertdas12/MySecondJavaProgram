@@ -1,2 +1,2 @@
 # MySecondJavaProgram
-This is a second java program to be store in the git repository
+This is a second java program to be store in the git repository main branch
